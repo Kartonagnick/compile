@@ -1,0 +1,27 @@
+
+// --- CastleOfDreams/compile                              [compile/compile.ver]
+// [2025-11-06][06:50:00] 001 Kartonagnick PRE
+//   based on the story:
+//   --- CastleOfDreams/compile (frized)                   [compile/compile.ver]
+//   [2025-11-02][01:00:00] 034 Kartonagnick
+//     ... (many versions) ...
+//   [2022-08-11][19:00:00] 001 Kartonagnick
+//     --- Kartonagnick/buid_info (closed)                      [build_info.ver]
+//     [2021-07-02][14:00:00] 003 Idrisov Denis R.
+//     [2021-06-18][22:50:00] 002 Idrisov Denis R.
+//     [2021-06-13][02:00:00] 001 Idrisov Denis R.
+
+//==============================================================================
+//==============================================================================
+
+#pragma once
+#ifndef dCOMPILE_VERSION_USED_ 
+#define dCOMPILE_VERSION_USED_ 1
+
+#define dCOMPILE_MAJOR 0
+#define dCOMPILE_MINOR 0
+#define dCOMPILE_PATCH 1
+
+//==============================================================================
+//==============================================================================
+#endif // dCOMPILE_VERSION_USED_
