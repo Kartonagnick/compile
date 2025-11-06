@@ -1,6 +1,6 @@
 
 // --- Kartonagnick/compile                                      [compilers.hpp]
-// [2025-11-06][18:10:00] 001 Kartonagnick PRE
+// [2025-11-06][18:10:00] 001 Kartonagnick    
 //   --- CastleOfDreams/compile                                  [compilers.hpp]
 //   [2022-08-17][19:00:00] 001 Kartonagnick
 //     --- Kartonagnick/buid_info (closed)                       [compilers.hpp]
