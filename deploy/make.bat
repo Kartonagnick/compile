@@ -1,7 +1,7 @@
 @echo off & call :checkParent || exit /b
 
 rem --- Kartonagnick/compile                                   [deploy/make.bat]
-rem [2025-11-06][08:10:00] 001 Kartonagnick PRE
+rem [2025-11-06][08:10:00] 001 Kartonagnick    
 rem   --- local/mygtest                                        [deploy/make.bat]
 rem   [2023-08-05][19:00:00] 001 Kartonagnick
 rem ============================================================================

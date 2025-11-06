@@ -1,6 +1,6 @@
 
 // --- Kartonagnick/compile                                           [main.cpp]
-// [2025-11-06][06:50:00] 001 Kartonagnick PRE
+// [2025-11-06][06:50:00] 001 Kartonagnick    
 // [2025-11-06][06:16:06] register repo on github
 // [2025-11-06][04:38:47] birthday of the project
 //==============================================================================

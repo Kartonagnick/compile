@@ -1,6 +1,6 @@
 
 // --- Kartonagnick/compile                                   [test-classic.cpp]
-// [2025-11-06][06:50:00] 003 Kartonagnick PRE
+// [2025-11-06][06:50:00] 003 Kartonagnick    
 //   --- local/mygtest                                        [test-classic.cpp]
 //   [2023-08-05][19:00:00] 003 Kartonagnick
 //     --- Katonagnick/mygtest                                [test-classic.cpp]
