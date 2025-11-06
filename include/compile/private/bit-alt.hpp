@@ -1,6 +1,6 @@
 
 // --- Kartonagnick/compile                                        [bit-alt.hpp]
-// [2025-11-06][18:10:00] 001 Kartonagnick PRE
+// [2025-11-06][18:10:00] 001 Kartonagnick    
 //   based on the story:
 //      https://sourceforge.net/p/predef/wiki/Architectures
 //      https://jdebp.uk/FGA/predefined-macros-processor.html
