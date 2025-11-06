@@ -1,6 +1,6 @@
 ﻿
 // --- Kartonagnick/compile                                             [show.hpp]
-// [2025-11-06][18:10:00] 003 Kartonagnick PRE
+// [2025-11-06][18:10:00] 003 Kartonagnick    
 //   --- CastleOfDreams/compile                                         [show.hpp]
 //   [2022-10-23][19:00:00] 002 Kartonagnick
 //   [2022-08-17][19:00:00] 001 Kartonagnick
