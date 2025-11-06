@@ -1,6 +1,6 @@
 
 rem --- Kartonagnick/compile                              [deploy/compilers.bat]
-rem [2025-11-06][08:10:00] 001 Kartonagnick PRE
+rem [2025-11-06][08:10:00] 001 Kartonagnick    
 rem   --- local/mygtest                                   [deploy/compilers.bat]
 rem   [2023-08-05][19:00:00] 001 Kartonagnick
 rem ============================================================================
