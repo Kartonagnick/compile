@@ -50,7 +50,7 @@
 
 --------------------------------------------------------------------------------
 
-[![P]][H] **v0.0.3 (dev)**
+[![S]][H] **v0.0.3 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE003] [![2025-11-06 18:10]][VE003]  
 
@@ -63,42 +63,42 @@
 | 2025-11-06 | 10:00 | [#3-dev-info] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `chrono.md`        (003) PRE  
-   - upd: `logo.png`         (003) PRE  
-   - upd: `changelog.md`     (003) PRE  
-   - upd: `history.md`       (003) PRE  
-   - upd: `chrono.md`        (003) PRE  
-   - upd: `docs.md`          (003) PRE  
+   - upd: `chrono.md`         003  
+   - upd: `logo.png`          003  
+   - upd: `changelog.md`      003  
+   - upd: `history.md`        003  
+   - upd: `chrono.md`         003  
+   - upd: `docs.md`           003  
 2. add: `docs/docs`  
-   - add: `info.md`          (001) PRE  
+   - add: `info.md`           001  
 3. upd: `include/compile`  
-   - upd: `compile.ver`      (002) PRE  
-   - add: `message.hpp`      (001) PRE  
-   - add: `info.hpp`         (001) PRE  
+   - upd: `compile.ver`       002  
+   - add: `message.hpp`       001  
+   - add: `info.hpp`          001  
 4. add: `include/compile/private`  
-   - add: `show.hpp`         (003) PRE  
-   - add: `select.hpp`       (001) PRE  
-   - add: `cplusplus.hpp`    (003) PRE  
-   - add: `compilers.hpp`    (001) PRE  
-   - add: `bit-alt.hpp`      (001) PRE  
-   - add: `bit.hpp`          (001) PRE  
+   - add: `show.hpp`          003  
+   - add: `select.hpp`        001  
+   - add: `cplusplus.hpp`     003  
+   - add: `compilers.hpp`     001  
+   - add: `bit-alt.hpp`       001  
+   - add: `bit.hpp`           001  
 5. upd: `include/compile/private/compilers`  
-   - upd: `msvc.hpp`         (015) PRE  
-   - add: `msvc_tag.hpp`     (004) PRE  
-   - add: `msvc.hpp`         (015) PRE  
-   - add: `gcc.hpp`          (003) PRE  
-   - add: `clang.hpp`        (003) PRE  
-   - add: `mingw.hpp`        (003) PRE  
-   - add: `zfinal.hpp`       (002) PRE  
+   - upd: `msvc.hpp`          015  
+   - add: `msvc_tag.hpp`      004  
+   - add: `msvc.hpp`          015  
+   - add: `gcc.hpp`           003  
+   - add: `clang.hpp`         003  
+   - add: `mingw.hpp`         003  
+   - add: `zfinal.hpp`        002  
 6. upd: `test/include`  
-   - upd: `test-stable.hpp`  (002) PRE  
-   - upd: `test-develop.hpp` (002) PRE  
+   - upd: `test-stable.hpp`   002  
+   - upd: `test-develop.hpp`  002  
 7. add: `test/sources/info`  
-   - add: `test-x86-x64.cpp` (002) PRE  
+   - add: `test-x86-x64.cpp`  002  
 8. upd: `test/sources`  
-   - upd: `test.ver`         (002) PRE  
-   - upd: `pch.hpp`          (002) PRE  
-9. upd: `project.root`       (003) PRE  
+   - upd: `test.ver`          002  
+   - upd: `pch.hpp`           002  
+9. upd: `project.root`        003  
 
 [#3-dev-info]: tasks/2025-11-06-0003-dev-info.md
 <div/>
