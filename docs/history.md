@@ -20,6 +20,55 @@
 
 --------------------------------------------------------------------------------
 
+[![P]][H] **v0.0.3 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE003] [![2025-11-06 18:10]][VE003]  
+
+[2025-11-06 18:10]: https://img.shields.io/static/v1?label=2025-11-06&message=18:10&color=yellowgreen
+[VE003]: changelog.md#-v003-dev
+
+|    дата    | время |     ветка     | статус |  
+|:----------:|:-----:|:-------------:|:------:|  
+| 2025-11-06 | 18:00 | [#3-dev-info] | DONE   |  
+| 2025-11-06 | 10:00 | [#3-dev-info] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `chrono.md`     (003) PRE  
+   - upd: `logo.png`      (003) PRE  
+   - upd: `changelog.md`  (003) PRE  
+   - upd: `history.md`    (003) PRE  
+   - upd: `chrono.md`     (003) PRE  
+   - upd: `docs.md`       (003) PRE  
+2. add: `docs/docs`  
+   - add: `info.md`       (001) PRE  
+3. upd: `include/compile`  
+   - upd: `compile.ver`   (002) PRE  
+   - add: `message.hpp`   (001) PRE  
+   - add: `info.hpp`      (001) PRE  
+4. add: `include/compile/private`  
+   - add: `show.hpp`      (003) PRE  
+   - add: `select.hpp`    (001) PRE  
+   - add: `cplusplus.hpp` (003) PRE  
+   - add: `compilers.hpp` (001) PRE  
+   - add: `bit-alt.hpp`   (001) PRE  
+   - add: `bit.hpp`       (001) PRE  
+5. upd: `include/compile/private/compilers`  
+   - upd: `msvc.hpp`      (015) PRE  
+   - add: `msvc_tag.hpp`  (004) PRE  
+   - add: `msvc.hpp`      (015) PRE  
+   - add: `gcc.hpp`       (003) PRE  
+   - add: `clang.hpp`     (003) PRE  
+   - add: `mingw.hpp`     (003) PRE  
+   - add: `zfinal.hpp`    (002) PRE  
+6. upd: `test/sources`  
+   - upd: `test.ver`      (002) PRE  
+   - upd: `pch.hpp`       (002) PRE  
+7. upd: `project.root`    (003) PRE  
+
+[#3-dev-info]: tasks/2025-11-06-0003-dev-info.md
+<div/>
+
+
 [![S]][H] **v0.0.2 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE002] [![2025-11-06 08:10]][VE002]  
