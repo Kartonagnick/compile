@@ -1,19 +1,23 @@
 
 // --- Kartonagnick/compile                                    [test-stable.hpp]
-// [2025-11-06][18:10:00] 002 Kartonagnick    
+// [2025-11-10][21:10:00] 003 Kartonagnick PRE
+// [2025-11-06][18:10:00] 002 Kartonagnick
 // [2025-11-06][06:50:00] 001 Kartonagnick
 //==============================================================================
 //==============================================================================
 
 #pragma once
 #ifndef dTEST_STABLE_USED_ 
-#define dTEST_STABLE_USED_ 2
+#define dTEST_STABLE_USED_ 3
 
 //=============================================================|||===||=========
 //=== modern/classic/origin ===================================|||===||=========
     #define TEST_MODERN                                        003   // ready
     #define TEST_CLASSIC                                       003   // ready
     #define TEST_ORIGIN                                        001   // ready
+//=== warning/magic ===========================================|||===||=========
+    #define TEST_PRAGMA_MAGIC                                  002   // ready
+    #define TEST_PRAGMA_WARNING                                002   // ready
 //=============================================================|||===||=========
 //=== compile/info ============================================|||===||=========
     #define TEST_COMPILE_X64_X86                               002   // ready
