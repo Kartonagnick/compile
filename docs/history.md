@@ -20,6 +20,45 @@
 
 --------------------------------------------------------------------------------
 
+[![P]][H] **v0.0.4 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE004] [![2025-11-10 21:10]][VE004]  
+
+[2025-11-10 21:10]: https://img.shields.io/static/v1?label=2025-11-10&message=21:10&color=yellowgreen
+[VE004]: changelog.md#-v004-dev
+
+|    дата    | время |     ветка     | статус |  
+|:----------:|:-----:|:-------------:|:------:|  
+| 2025-11-10 | 21:00 | [#4-dev-warn] | DONE   |  
+| 2025-11-10 | 19:30 | [#4-dev-warn] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`         (004) PRE  
+   - upd: `changelog.md`     (004) PRE  
+   - upd: `history.md`       (004) PRE  
+   - upd: `chrono.md`        (004) PRE  
+   - upd: `docs.md`          (004) PRE  
+2. add: `docs/docs`  
+   - add: `magic.md`         (001) PRE  
+   - add: `warning.md`       (001) PRE  
+3. upd: `test/include`  
+   - upd: `test-stable.hpp`  (002) PRE  
+   - upd: `test-develop.hpp` (002) PRE  
+4. add: `test/sources/pragma`  
+   - add: `test-warning.cpp` (002) PRE  
+   - add: `test-magic.cpp`   (002) PRE  
+5. upd: `test/sources`  
+   - upd: `test.ver`         (003) PRE  
+6. upd: `include/compile`  
+   - upd: `compile.ver`      (003) PRE  
+   - add: `warning.hpp`      (003) PRE  
+   - add: `magic.hpp`        (001) PRE  
+7. upd: `project.root`       (004) PRE  
+
+[#4-dev-warn]: tasks/2025-11-10-0004-dev-warn.md
+<div/>
+
+
 [![S]][H] **v0.0.3 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE003] [![2025-11-06 18:10]][VE003]  
