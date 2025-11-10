@@ -1,6 +1,6 @@
 
 // --- Kartonagnick/compile                                  [compile/magic.hpp]
-// [2025-11-10][21:10:00] 001 Kartonagnick PRE
+// [2025-11-10][21:10:00] 001 Kartonagnick    
 //   --- CastleOfDreams/compile                              [compile/magic.hpp]
 //   [2023-06-15][19:00:00] 001 Kartonagnick
 //     --- Kartonagnick/tools-frized (closed)                 [pragma/magic.hpp]

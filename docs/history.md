@@ -50,7 +50,7 @@
 
 --------------------------------------------------------------------------------
 
-[![P]][H] **v0.0.4 (dev)**
+[![S]][H] **v0.0.4 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE004] [![2025-11-10 21:10]][VE004]  
 
@@ -63,27 +63,27 @@
 | 2025-11-10 | 19:30 | [#4-dev-warn] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`         (004) PRE  
-   - upd: `changelog.md`     (004) PRE  
-   - upd: `history.md`       (004) PRE  
-   - upd: `chrono.md`        (004) PRE  
-   - upd: `docs.md`          (004) PRE  
+   - upd: `logo.png`          004  
+   - upd: `changelog.md`      004  
+   - upd: `history.md`        004  
+   - upd: `chrono.md`         004  
+   - upd: `docs.md`           004  
 2. add: `docs/docs`  
-   - add: `magic.md`         (001) PRE  
-   - add: `warning.md`       (001) PRE  
+   - add: `magic.md`          001  
+   - add: `warning.md`        001  
 3. upd: `test/include`  
-   - upd: `test-stable.hpp`  (002) PRE  
-   - upd: `test-develop.hpp` (002) PRE  
+   - upd: `test-stable.hpp`   002  
+   - upd: `test-develop.hpp`  002  
 4. add: `test/sources/pragma`  
-   - add: `test-warning.cpp` (002) PRE  
-   - add: `test-magic.cpp`   (002) PRE  
+   - add: `test-warning.cpp`  002  
+   - add: `test-magic.cpp`    002  
 5. upd: `test/sources`  
-   - upd: `test.ver`         (003) PRE  
+   - upd: `test.ver`          003  
 6. upd: `include/compile`  
-   - upd: `compile.ver`      (003) PRE  
-   - add: `warning.hpp`      (003) PRE  
-   - add: `magic.hpp`        (001) PRE  
-7. upd: `project.root`       (004) PRE  
+   - upd: `compile.ver`       003  
+   - add: `warning.hpp`       003  
+   - add: `magic.hpp`         001  
+7. upd: `project.root`        004  
 
 [#4-dev-warn]: tasks/2025-11-10-0004-dev-warn.md
 <div/>
