@@ -1,6 +1,6 @@
 
 // --- Kartonagnick/compile                                 [test-dfunction.cpp]
-// [2025-11-11][04:30:00] 001 Kartonagnick PRE
+// [2025-11-11][04:30:00] 001 Kartonagnick    
 //   --- CastleOfDreams/compile                             [test-dfunction.cpp]
 //   [2023-03-08][19:00:00] 001 Kartonagnick
 //     --- Kartonagnick/tools-types (closed)                [test-dfunction.cpp]

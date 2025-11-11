@@ -50,7 +50,7 @@
 
 --------------------------------------------------------------------------------
 
-[![P]][H] **v0.0.5 (dev)**
+[![S]][H] **v0.0.5 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE005] [![2025-11-11 04:30]][VE005]  
 
@@ -63,24 +63,24 @@
 | 2025-11-11 | 03:10 | [#4-dev-warn] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`            (005) PRE  
-   - upd: `changelog.md`        (005) PRE  
-   - upd: `history.md`          (005) PRE  
-   - upd: `chrono.md`           (005) PRE  
-   - upd: `docs.md`             (005) PRE  
+   - upd: `logo.png`             005  
+   - upd: `changelog.md`         005  
+   - upd: `history.md`           005  
+   - upd: `chrono.md`            005  
+   - upd: `docs.md`              005  
 2. add: `docs/docs`  
-   - add: `dfunction.md`        (002) PRE  
+   - add: `dfunction.md`         002  
 3. upd: `include/compile`  
-   - upd: `compile.ver`         (004) PRE  
-   - add: `dfunction.hpp`       (002) PRE  
+   - upd: `compile.ver`          004  
+   - add: `dfunction.hpp`        002  
 4. upd: `test/include`  
-   - upd: `test-develop.hpp`    (004) PRE  
-   - upd: `test-stable.hpp`     (004) PRE  
+   - upd: `test-develop.hpp`     004  
+   - upd: `test-stable.hpp`      004  
 5. add: `test/sources/dfunction`  
-   - add: `test-dfunction.cpp`  (001) PRE  
+   - add: `test-dfunction.cpp`   001  
 6. upd: `test/sources`  
-   - upd: `pch.hpp`             (003) PRE  
-7. upd: `project.root`          (005) PRE  
+   - upd: `pch.hpp`              003  
+7. upd: `project.root`           005  
 
 [#5-dev-dfunc]: tasks/2025-11-11-0005-dev-dfunc.md
 <div/>
