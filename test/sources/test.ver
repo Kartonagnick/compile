@@ -1,6 +1,7 @@
 
 // --- Kartonagnick/compile                                           [test.ver]
-// [2025-11-10][21:10:00] 003 Kartonagnick    
+// [2025-11-11][04:30:00] 004 Kartonagnick PRE
+// [2025-11-10][21:10:00] 003 Kartonagnick
 // [2025-11-06][18:10:00] 002 Kartonagnick
 // [2025-11-06][06:50:00] 001 Kartonagnick
 // [2025-11-06][06:16:06] register repo on github
@@ -10,11 +11,11 @@
 
 #pragma once
 #ifndef dTEST_VERSION_USED_ 
-#define dTEST_VERSION_USED_ 3
+#define dTEST_VERSION_USED_ 4
 
 #define dTEST_MAJOR 0
 #define dTEST_MINOR 0
-#define dTEST_PATCH 3
+#define dTEST_PATCH 4
 
 //==============================================================================
 //==============================================================================
