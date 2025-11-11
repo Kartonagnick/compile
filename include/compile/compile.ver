@@ -1,6 +1,7 @@
 
 // --- CastleOfDreams/compile                              [compile/compile.ver]
-// [2025-11-10][21:10:00] 003 Kartonagnick    
+// [2025-11-11][04:30:00] 004 Kartonagnick PRE
+// [2025-11-10][21:10:00] 003 Kartonagnick
 // [2025-11-06][18:10:00] 002 Kartonagnick
 // [2025-11-06][06:50:00] 001 Kartonagnick
 //   based on the story:
@@ -18,11 +19,11 @@
 
 #pragma once
 #ifndef dCOMPILE_VERSION_USED_ 
-#define dCOMPILE_VERSION_USED_ 3
+#define dCOMPILE_VERSION_USED_ 4
 
 #define dCOMPILE_MAJOR 0
 #define dCOMPILE_MINOR 0
-#define dCOMPILE_PATCH 3
+#define dCOMPILE_PATCH 4
 
 //==============================================================================
 //==============================================================================
