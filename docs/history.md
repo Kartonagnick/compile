@@ -50,6 +50,42 @@
 
 --------------------------------------------------------------------------------
 
+[![P]][H] **v0.0.5 (dev)**
+--------------------------------------------------------------------------------
+[![V]][VE005] [![2025-11-11 04:30]][VE005]  
+
+[2025-11-11 04:30]: https://img.shields.io/static/v1?label=2025-11-11&message=04:30&color=yellowgreen
+[VE005]: changelog.md#-v005-dev
+
+|    дата    | время |     ветка     | статус |  
+|:----------:|:-----:|:-------------:|:------:|  
+| 2025-11-11 | 04:20 | [#4-dev-warn] | DONE   |  
+| 2025-11-11 | 03:10 | [#4-dev-warn] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`            (005) PRE  
+   - upd: `changelog.md`        (005) PRE  
+   - upd: `history.md`          (005) PRE  
+   - upd: `chrono.md`           (005) PRE  
+   - upd: `docs.md`             (005) PRE  
+2. add: `docs/docs`  
+   - add: `dfunction.md`        (002) PRE  
+3. upd: `include/compile`  
+   - upd: `compile.ver`         (004) PRE  
+   - add: `dfunction.hpp`       (002) PRE  
+4. upd: `test/include`  
+   - upd: `test-develop.hpp`    (004) PRE  
+   - upd: `test-stable.hpp`     (004) PRE  
+5. add: `test/sources/dfunction`  
+   - add: `test-dfunction.cpp`  (001) PRE  
+6. upd: `test/sources`  
+   - upd: `pch.hpp`             (003) PRE  
+7. upd: `project.root`          (005) PRE  
+
+[#5-dev-dfunc]: tasks/2025-11-11-0005-dev-dfunc.md
+<div/>
+
+
 [![S]][H] **v0.0.4 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE004] [![2025-11-10 21:10]][VE004]  
