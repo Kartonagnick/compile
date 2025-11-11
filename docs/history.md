@@ -50,7 +50,7 @@
 
 --------------------------------------------------------------------------------
 
-[![P]][H] **v0.0.6 (dev)**
+[![S]][H] **v0.0.6 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE006] [![2025-11-11 23:50]][VE006]  
 
@@ -63,21 +63,21 @@
 | 2025-11-11 | 04:30 | [#6-dev-support] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`     (006) PRE  
-   - upd: `changelog.md` (006) PRE  
-   - upd: `chrono.md`    (006) PRE  
-   - upd: `history.md`   (006) PRE  
-   - upd: `docs.md`      (006) PRE  
+   - upd: `logo.png`      006  
+   - upd: `changelog.md`  006  
+   - upd: `chrono.md`     006  
+   - upd: `history.md`    006  
+   - upd: `docs.md`       006  
 2. add: `docs/docs`  
-   - add: `wchar.md`     (001) PRE  
-   - add: `cstdint.md`   (001) PRE  
-   - add: `support.md`   (009) PRE  
+   - add: `wchar.md`      001  
+   - add: `cstdint.md`    001  
+   - add: `support.md`    009  
 3. upd: `include/compile`  
-   - upd: `compile.ver`  (005) PRE  
-   - add: `support.hpp`  (009) PRE  
-   - add: `cstdint.hpp`  (002) PRE  
-   - add: `wchar.hpp`    (002) PRE  
-4. upd: `project.root`   (006) PRE  
+   - upd: `compile.ver`   005  
+   - add: `support.hpp`   009  
+   - add: `cstdint.hpp`   002  
+   - add: `wchar.hpp`     002  
+4. upd: `project.root`    006  
 
 [#6-dev-support]: tasks/2025-11-11-0006-dev-support.md
 <div/>

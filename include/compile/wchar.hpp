@@ -1,6 +1,6 @@
 
 // --- Kartonagnick/compile                                          [wchar.hpp]
-// [2025-11-11][25:50:00] 002 Kartonagnick PRE
+// [2025-11-11][25:50:00] 002 Kartonagnick    
 //   based on the story:
 //   --- workspace/utfconv                                           [macro.hpp]
 //   [2025-10-13][07:00:00] 001 Kartonagnick
