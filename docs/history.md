@@ -50,6 +50,45 @@
 
 --------------------------------------------------------------------------------
 
+[![P]][H] **v0.0.7 (tst)**
+--------------------------------------------------------------------------------
+[![V]][VE007] [![2025-11-12 19:00]][VE007]  
+
+[2025-11-12 19:00]: https://img.shields.io/static/v1?label=2025-11-12&message=19:00&color=yellowgreen
+[VE007]: changelog.md#-v007-tst
+
+|    дата    | время |       ветка       | статус |  
+|:----------:|:-----:|:-----------------:|:------:|  
+| 2025-11-12 | 18:50 | [#7-tst-msvc2010] | DONE   |  
+| 2025-11-12 | 11:00 | [#7-tst-msvc2010] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`               (007) PRE  
+   - upd: `changelog.md`           (007) PRE  
+   - upd: `history.md`             (007) PRE  
+   - upd: `chrono.md`              (007) PRE  
+   - upd: `docs.md`                (007) PRE  
+2. upd: `test/include`  
+   - upd: `test-stable.hpp`        (005) PRE  
+   - upd: `test-develop.hpp`       (005) PRE  
+3. add: `test/sources/support/cpp11-msvc2010`  
+   - add: `test-type_traits.cpp`   (001) PRE  
+   - add: `test-static_check.cpp`  (001) PRE  
+   - add: `test-nullptr.cpp`       (001) PRE  
+   - add: `test-lambda.cpp`        (001) PRE  
+   - add: `test-hash.cpp`          (001) PRE  
+   - add: `test-decltype.cpp`      (001) PRE  
+   - add: `test-cstdint.cpp`       (001) PRE  
+   - add: `test-char_typedef.cpp`  (001) PRE  
+4. upd: `test/sources`  
+   - upd: `test.ver`               (005) PRE  
+   - upd: `pch.hpp`                (004) PRE  
+5. upd: `project.root`             (007) PRE  
+
+[#7-tst-msvc2010]: tasks/2025-11-12-0007-tst-msvc2010.md
+<div/>
+
+
 [![S]][H] **v0.0.6 (dev)**
 --------------------------------------------------------------------------------
 [![V]][VE006] [![2025-11-11 23:50]][VE006]  
