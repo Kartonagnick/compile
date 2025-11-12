@@ -62,6 +62,38 @@
 | 2025-11-12 | 18:50 | [#7-tst-support] | DONE   |  
 | 2025-11-12 | 11:00 | [#7-tst-support] | BEGIN  |  
 
+1. upd: `docs`  
+   - upd: `logo.png`               (007) PRE  
+   - upd: `changelog.md`           (007) PRE  
+   - upd: `history.md`             (007) PRE  
+   - upd: `chrono.md`              (007) PRE  
+   - upd: `docs.md`                (007) PRE  
+2. upd: `test/include`  
+   - upd: `test-stable.hpp`        (005) PRE  
+   - upd: `test-develop.hpp`       (005) PRE  
+3. add: `test/sources/support`  
+   - add: `test-variadic.cpp`      (001) PRE  
+   - add: `test-using_alias.cpp`   (001) PRE  
+   - add: `test-type_traits.cpp`   (001) PRE  
+   - add: `test-trait_const.cpp`   (001) PRE  
+   - add: `test-static_check.cpp`  (001) PRE  
+   - add: `test-static_assert.cpp` (001) PRE  
+   - add: `test-nullptr.cpp`       (001) PRE  
+   - add: `test-noexcept.cpp`      (001) PRE  
+   - add: `test-nocopyable.cpp`    (001) PRE  
+   - add: `test-lambda.cpp`        (001) PRE  
+   - add: `test-hash.cpp`          (001) PRE  
+   - add: `test-enum.cpp`          (001) PRE  
+   - add: `test-emplace.cpp`       (001) PRE  
+   - add: `test-decltype.cpp`      (001) PRE  
+   - add: `test-cstdint.cpp`       (001) PRE  
+   - add: `test-chrono.cpp`        (001) PRE  
+   - add: `test-atomic.cpp`        (001) PRE  
+4. upd: `test/sources`  
+   - upd: `test.ver`               (005) PRE  
+   - upd: `pch.hpp`                (004) PRE  
+5. upd: `project.root`             (007) PRE  
+
 [#7-tst-support]: tasks/2025-11-12-0007-tst-support.md
 <div/>
 
