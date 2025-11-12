@@ -7,6 +7,30 @@
 [![S]][H] Новости проекта
 =========================
 
+[![P]][VE007] **v0.0.7 (tst)**
+--------------------------------------------------------------------------------
+[#7-tst-support]: tasks/2025-11-12-0007-tst-support.md
+[VE007]: history.md#-v007-tst
+
+|    дата    | время |       ветка       |    статус     |  
+|:----------:|:-----:|:-----------------:|:-------------:|  
+| 2025-11-12 | 19:00 | [#7-tst-msvc2010] | [![V]][VE007] |  
+
+Готовы `с++11, msvc2010` для `compile/support.hpp`  
+  - dSTATIC_CHECK  
+  - dSTATIC_ASSERT  
+  - dHAS_STATIC_ASSERT  
+  - dHAS_CHAR16_TYPEDEF  
+  - dHAS_CHAR32_TYPEDEF  
+  - dHAS_TYPE_TRAITS  
+  - dHAS_DECLTYPE  
+  - dHAS_CSTDINT  
+  - dHAS_NULLPTR  
+  - dHAS_LAMBDA  
+  - dHAS_HASH  
+<br/>
+
+
 [![S]][VE006] **v0.0.6 (dev)**
 --------------------------------------------------------------------------------
 [#6-dev-support]: tasks/2025-11-11-0006-dev-support.md
