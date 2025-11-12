@@ -1,6 +1,7 @@
 ﻿
 // --- Kartonagnick/compile                                            [pch.hpp]
-// [2025-11-11][04:30:00] 003 Kartonagnick    
+// [2025-11-12][19:00:00] 004 Kartonagnick PRE
+// [2025-11-11][04:30:00] 003 Kartonagnick
 // [2025-11-06][18:10:00] 002 Kartonagnick
 // [2025-11-06][06:50:00] 001 Kartonagnick
 // [2025-11-06][06:16:06] register repo on github
@@ -37,10 +38,35 @@
 //==============================================================================
 
 #include <mygtest/mygtest.hpp>
+#include <compile/support.hpp>
+
 #include <stdexcept>
 #include <iostream>
 #include <cassert>
+#include <sstream>
+#include <utility>
 #include <string>
+#include <vector>
+#include <map>
+
+#if dHAS_TYPE_TRAITS
+    #include <type_traits>
+#endif
+
+#ifdef dHAS_CHRONO
+    #include <chrono>
+#endif
+
+#ifdef dHAS_CSTDINT
+    #include <cstdint>
+#endif
+
+#ifdef dHAS_ATOMIC
+    #include <atomic>
+    #include <future>
+    #include <thread>
+    #include <mutex>
+#endif
 
 //==============================================================================
 //==============================================================================
