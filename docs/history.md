@@ -50,7 +50,7 @@
 
 --------------------------------------------------------------------------------
 
-[![P]][H] **v0.0.8 (tst)**
+[![S]][H] **v0.0.8 (tst)**
 --------------------------------------------------------------------------------
 [![V]][VE008] [![2025-11-13 19:00]][VE008]  
 
@@ -63,25 +63,25 @@
 | 2025-11-13 | 11:00 | [#8-tst-msvc2012] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`                  (008) PRE  
-   - upd: `changelog.md`              (008) PRE  
-   - upd: `history.md`                (008) PRE  
-   - upd: `chrono.md`                 (008) PRE  
-   - upd: `docs.md`                   (008) PRE  
+   - upd: `logo.png`                   008  
+   - upd: `changelog.md`               008  
+   - upd: `history.md`                 008  
+   - upd: `chrono.md`                  008  
+   - upd: `docs.md`                    008  
 2. upd: `test/include`  
-   - upd: `test-stable.hpp`           (006) PRE  
-   - upd: `test-develop.hpp`          (006) PRE  
+   - upd: `test-stable.hpp`            006  
+   - upd: `test-develop.hpp`           006  
 3. add: `test/sources/support/cpp11-msvc2012`  
-   - add: `test-array_empty_size.cpp` (001) PRE  
-   - add: `test-rvalue_reference.cpp` (001) PRE  
-   - add: `test-emplace.cpp`          (001) PRE  
-   - add: `test-chrono.cpp`           (001) PRE  
-   - add: `test-atomic.cpp`           (001) PRE  
-   - add: `test-enum.cpp`             (001) PRE  
+   - add: `test-array_empty_size.cpp`  001  
+   - add: `test-rvalue_reference.cpp`  001  
+   - add: `test-emplace.cpp`           001  
+   - add: `test-chrono.cpp`            001  
+   - add: `test-atomic.cpp`            001  
+   - add: `test-enum.cpp`              001  
 4. upd: `test/sources`  
-   - upd: `pch.hpp`                   (005) PRE  
-   - upd: `test.ver`                  (006) PRE  
-5. upd: `project.root`                (008) PRE  
+   - upd: `pch.hpp`                    005  
+   - upd: `test.ver`                   006  
+5. upd: `project.root`                 008  
 
 [#8-tst-msvc2012]: tasks/2025-11-13-0008-tst-msvc2012.md
 <div/>
