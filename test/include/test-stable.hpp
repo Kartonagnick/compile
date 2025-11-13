@@ -1,6 +1,6 @@
 
 // --- Kartonagnick/compile                                    [test-stable.hpp]
-// [2025-11-13][19:00:00] 006 Kartonagnick PRE
+// [2025-11-13][19:00:00] 006 Kartonagnick    
 // [2025-11-12][19:00:00] 005 Kartonagnick
 // [2025-11-11][04:30:00] 004 Kartonagnick
 // [2025-11-10][21:10:00] 003 Kartonagnick

@@ -1,6 +1,6 @@
 
 // --- Kartonagnick/compile                                    [test-atomic.cpp]
-// [2025-11-13][19:00:00] 001 Kartonagnick PRE
+// [2025-11-13][19:00:00] 001 Kartonagnick    
 //   --- CastleOfDreams/compile (frized)                       [test-atomic.cpp]
 //   [2023-02-23][19:00:00] 001 Kartonagnick
 //     --- Kartonagnick/tools-features (closed)                [test-atomic.cpp]
