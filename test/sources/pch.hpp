@@ -1,6 +1,7 @@
 ﻿
 // --- Kartonagnick/compile                                            [pch.hpp]
-// [2025-11-12][19:00:00] 004 Kartonagnick    
+// [2025-11-13][19:00:00] 005 Kartonagnick PRE
+// [2025-11-12][19:00:00] 004 Kartonagnick
 // [2025-11-11][04:30:00] 003 Kartonagnick
 // [2025-11-06][18:10:00] 002 Kartonagnick
 // [2025-11-06][06:50:00] 001 Kartonagnick
@@ -45,11 +46,27 @@
     #include <type_traits>
 #endif
 
+#ifdef dHAS_ATOMIC
+    #include <atomic>
+    #include <future>
+    #include <thread>
+    #include <mutex>
+#endif
+
+#ifdef dHAS_CHRONO
+    #include <chrono>
+#endif
+
 #include <stdexcept>
 #include <iostream>
+#include <iomanip>
 #include <cassert>
+#include <sstream>
 #include <utility>
 #include <string>
+#include <vector>
+#include <map>
+
 
 //==============================================================================
 //==============================================================================
