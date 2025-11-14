@@ -7,6 +7,26 @@
 [![S]][H] Новости проекта
 =========================
 
+[![P]][VE009] **v0.0.9 (tst)**
+--------------------------------------------------------------------------------
+[#9-tst-msvc2013]: tasks/2025-11-14-0009-tst-msvc2013.md
+[VE009]: history.md#-v009-tst
+
+|    дата    | время |       ветка       |    статус     |  
+|:----------:|:-----:|:-----------------:|:-------------:|  
+| 2025-11-14 | 19:00 | [#9-tst-msvc2013] | [![V]][VE009] |  
+
+Готовы `с++11, msvc2013` для `compile/support.hpp`  
+  - dHAS_TEMPLATE_FUNCTION_DEFAULT_PARAM  
+  - dHAS_AGGREGATE_INITIALIZE  
+  - dHAS_VARIADIC_TEMPLATE  
+  - dCAN_DELETE_FUNCTION  
+  - dHAS_USING_ALIAS_STD  
+  - dHAS_USING_ALIAS  
+  - dNOCOPYABLE  
+<br/>
+
+
 [![S]][VE008] **v0.0.8 (tst)**
 --------------------------------------------------------------------------------
 [#8-tst-msvc2012]: tasks/2025-11-13-0008-tst-msvc2012.md
