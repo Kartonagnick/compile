@@ -50,6 +50,43 @@
 
 --------------------------------------------------------------------------------
 
+
+[![P]][H] **v0.0.9 (tst)**
+--------------------------------------------------------------------------------
+[![V]][VE009] [![2025-11-14 19:00]][VE009]  
+
+[2025-11-14 19:00]: https://img.shields.io/static/v1?label=2025-11-14&message=19:00&color=yellowgreen
+[VE009]: changelog.md#-v009-tst
+
+|    дата    | время |       ветка       | статус |  
+|:----------:|:-----:|:-----------------:|:------:|  
+| 2025-11-14 | 18:50 | [#9-tst-msvc2013] | DONE   |  
+| 2025-11-14 | 11:00 | [#9-tst-msvc2013] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`                      (009) PRE  
+   - upd: `changelog.md`                  (009) PRE  
+   - upd: `history.md`                    (009) PRE  
+   - upd: `chrono.md`                     (009) PRE  
+   - upd: `docs.md`                       (009) PRE  
+2. upd: `test/include`  
+   - upd: `test-stable.hpp`               (007) PRE  
+   - upd: `test-develop.hpp`              (007) PRE  
+3. add: `test/sources/support/cpp11-msvc2013`  
+   - add: `test-variadic.cpp`             (001) PRE  
+   - add: `test-using_alias.cpp`          (003) PRE  
+   - add: `test-template_default.cpp`     (001) PRE  
+   - add: `test-nocopyable.cpp`           (001) PRE  
+   - add: `test-aggregate_initialize.cpp` (001) PRE  
+4. upd: `test/sources`  
+   - upd: `test.ver`                      (007) PRE  
+   - upd: `pch.hpp`                       (006) PRE  
+5. upd: `project.root`                    (009) PRE  
+
+[#9-tst-msvc2013]: tasks/2025-11-14-0009-tst-msvc2013.md
+<div/>
+
+
 [![S]][H] **v0.0.8 (tst)**
 --------------------------------------------------------------------------------
 [![V]][VE008] [![2025-11-13 19:00]][VE008]  
@@ -67,7 +104,7 @@
    - upd: `changelog.md`               008  
    - upd: `history.md`                 008  
    - upd: `chrono.md`                  008  
-   - upd: `docs.md`                    008  
+   - upd: `docs.md`                    009  
 2. upd: `test/include`  
    - upd: `test-stable.hpp`            006  
    - upd: `test-develop.hpp`           006  
