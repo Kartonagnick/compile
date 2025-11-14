@@ -51,7 +51,7 @@
 --------------------------------------------------------------------------------
 
 
-[![P]][H] **v0.0.9 (tst)**
+[![S]][H] **v0.0.9 (tst)**
 --------------------------------------------------------------------------------
 [![V]][VE009] [![2025-11-14 19:00]][VE009]  
 
@@ -64,24 +64,24 @@
 | 2025-11-14 | 11:00 | [#9-tst-msvc2013] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`                      (009) PRE  
-   - upd: `changelog.md`                  (009) PRE  
-   - upd: `history.md`                    (009) PRE  
-   - upd: `chrono.md`                     (009) PRE  
-   - upd: `docs.md`                       (009) PRE  
+   - upd: `logo.png`                       009  
+   - upd: `changelog.md`                   009  
+   - upd: `history.md`                     009  
+   - upd: `chrono.md`                      009  
+   - upd: `docs.md`                        009  
 2. upd: `test/include`  
-   - upd: `test-stable.hpp`               (007) PRE  
-   - upd: `test-develop.hpp`              (007) PRE  
+   - upd: `test-stable.hpp`                007  
+   - upd: `test-develop.hpp`               007  
 3. add: `test/sources/support/cpp11-msvc2013`  
-   - add: `test-variadic.cpp`             (001) PRE  
-   - add: `test-using_alias.cpp`          (003) PRE  
-   - add: `test-template_default.cpp`     (001) PRE  
-   - add: `test-nocopyable.cpp`           (001) PRE  
-   - add: `test-aggregate_initialize.cpp` (001) PRE  
+   - add: `test-variadic.cpp`              001  
+   - add: `test-using_alias.cpp`           003  
+   - add: `test-template_default.cpp`      001  
+   - add: `test-nocopyable.cpp`            001  
+   - add: `test-aggregate_initialize.cpp`  001  
 4. upd: `test/sources`  
-   - upd: `test.ver`                      (007) PRE  
-   - upd: `pch.hpp`                       (006) PRE  
-5. upd: `project.root`                    (009) PRE  
+   - upd: `test.ver`                       007  
+   - upd: `pch.hpp`                        006  
+5. upd: `project.root`                     009  
 
 [#9-tst-msvc2013]: tasks/2025-11-14-0009-tst-msvc2013.md
 <div/>
