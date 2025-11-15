@@ -1,6 +1,7 @@
 
 // --- Kartonagnick/compile                                    [test-stable.hpp]
-// [2025-11-14][19:00:00] 007 Kartonagnick    
+// [2025-11-15][19:00:00] 008 Kartonagnick PRE
+// [2025-11-14][19:00:00] 007 Kartonagnick
 // [2025-11-13][19:00:00] 006 Kartonagnick
 // [2025-11-12][19:00:00] 005 Kartonagnick
 // [2025-11-11][04:30:00] 004 Kartonagnick
@@ -12,7 +13,7 @@
 
 #pragma once
 #ifndef dTEST_STABLE_USED_ 
-#define dTEST_STABLE_USED_ 7
+#define dTEST_STABLE_USED_ 8
 
 //=============================================================|||===||=========
 //=== modern/classic/origin ===================================|||===||=========
@@ -55,6 +56,15 @@
     #define TEST_SUPPORT_TEMPLATE_DEFAULT                      001   // ready
     #define TEST_SUPPORT_HAS_USING_ALIAS                       003   // ready
     #define TEST_SUPPORT_VARIADIC_TEMPLATE                     001   // ready
+//=============================================================|||===||=========
+//=== compile/support: c++11, msvc2015 ========================|||===||=========
+    #define TEST_SUPPORT_ABOMINABLE                            001   // ready
+    #define TEST_SUPPORT_AUTO_RETURN_TYPE                      001   // ready
+    #define TEST_SUPPORT_CHAR_TYPE                             001   // ready
+    #define TEST_SUPPORT_CPP11                                 001   // ready
+    #define TEST_SUPPORT_NOEXCEPT                              001   // ready
+    #define TEST_SUPPORT_THREAD_LOCAL                          001   // ready
+    #define TEST_SUPPORT_TRAILING_RETURN_TYPE                  001   // ready
 //==============================================================================
 //==============================================================================
 
