@@ -7,6 +7,33 @@
 [![S]][H] Новости проекта
 =========================
 
+[![P]][VE010] **v0.1.0 (tst)**
+--------------------------------------------------------------------------------
+[#10-tst-msvc2015]: tasks/2025-11-15-0010-tst-msvc2015.md
+[VE010]: history.md#-v010-tst
+
+|    дата    | время |        ветка       |    статус     |  
+|:----------:|:-----:|:------------------:|:-------------:|  
+| 2025-11-15 | 19:00 | [#10-tst-msvc2015] | [![V]][VE010] |  
+
+Готовы `с++11, msvc2015` для `compile/support.hpp`  
+  - dHAS_TRAILING_RETURN_TYPE  
+  - dHAS_AUTO_RETURN_TYPE  
+  - dHAS_CONSTEXPR_CPP11  
+  - dHAS_BINARY_LITERAL  
+  - dHAS_THREAD_LOCAL  
+  - dHAS_ABOMINABLE  
+  - dHAS_U16_LITERAL  
+  - dHAS_U32_LITERAL  
+  - dHAS_U8_LITERAL  
+  - dHAS_CHAR16_TYPE  
+  - dHAS_CHAR32_TYPE  
+  - dHAS_CHAR8_TYPE  
+  - dHAS_NOEXCEPT  
+  - dHAS_CPP11  
+<br/>
+
+
 [![S]][VE009] **v0.0.9 (tst)**
 --------------------------------------------------------------------------------
 [#9-tst-msvc2013]: tasks/2025-11-14-0009-tst-msvc2013.md
