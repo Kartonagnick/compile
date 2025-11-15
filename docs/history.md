@@ -50,6 +50,42 @@
 
 --------------------------------------------------------------------------------
 
+[![P]][H] **v0.1.0 (tst)**
+--------------------------------------------------------------------------------
+[![V]][VE010] [![2025-11-15 19:00]][VE010]  
+
+[2025-11-15 19:00]: https://img.shields.io/static/v1?label=2025-11-15&message=19:00&color=yellowgreen
+[VE010]: changelog.md#-v010-tst
+
+|    дата    | время |        ветка       | статус |  
+|:----------:|:-----:|:------------------:|:------:|  
+| 2025-11-15 | 18:50 | [#10-tst-msvc2015] | DONE   |  
+| 2025-11-15 | 11:00 | [#10-tst-msvc2015] | BEGIN  |  
+
+1. upd: `docs`  
+   - upd: `logo.png`                      (010) PRE  
+   - upd: `changelog.md`                  (010) PRE  
+   - upd: `chrono.md`                     (010) PRE  
+   - upd: `history.md`                    (010) PRE  
+   - upd: `docs.md`                       (010) PRE  
+2. upd: `test/include`  
+   - upd: `test-stable.hpp`               (008) PRE  
+   - upd: `test-develop.hpp`              (008) PRE  
+3. add: `test/sources/support/cpp11-msvc2015`  
+   - add: `test-trailing_return_type.cpp` (001) PRE  
+   - add: `test-thread_local.cpp`         (001) PRE  
+   - add: `test-noexcept.cpp`             (001) PRE  
+   - add: `test-cpp11.cpp`                (001) PRE  
+   - add: `test-char_type.cpp`            (001) PRE  
+   - add: `test-auto_return_type.cpp`     (001) PRE  
+   - add: `test-abominable.cpp`           (001) PRE  
+4. upd: `test/sources`  
+   - upd: `test.ver`                      (008) PRE  
+5. upd: `project.root`                    (010) PRE  
+
+[#10-tst-msvc2015]: tasks/2025-11-15-0010-tst-msvc2015.md
+<div/>
+
 
 [![S]][H] **v0.0.9 (tst)**
 --------------------------------------------------------------------------------
