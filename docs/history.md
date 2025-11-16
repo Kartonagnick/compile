@@ -50,7 +50,7 @@
 
 --------------------------------------------------------------------------------
 
-[![P]][H] **v0.1.1 (tst)**
+[![S]][H] **v0.1.1 (tst)**
 --------------------------------------------------------------------------------
 [![V]][VE011] [![2025-11-16 19:00]][VE011]  
 
@@ -63,21 +63,21 @@
 | 2025-11-16 | 11:00 | [#11-tst-msvc2017] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`              (011) PRE  
-   - upd: `changelog.md`          (011) PRE  
-   - upd: `history.md`            (011) PRE  
-   - upd: `chrono.md`             (011) PRE  
-   - upd: `docs.md`               (011) PRE  
+   - upd: `logo.png`               011  
+   - upd: `changelog.md`           011  
+   - upd: `history.md`             011  
+   - upd: `chrono.md`              011  
+   - upd: `docs.md`                011  
 2. upd: `test/include`  
-   - upd: `test-stable.hpp`       (009) PRE  
-   - upd: `test-develop.hpp`      (009) PRE  
+   - upd: `test-stable.hpp`        009  
+   - upd: `test-develop.hpp`       009  
 3. add: `test/sources/support/cpp17-msvc2017`  
-   - add: `test-rvalue_array.cpp` (001) PRE  
-   - add: `test-cpp17.cpp`        (001) PRE  
-   - add: `test-cpp14.cpp`        (001) PRE  
+   - add: `test-rvalue_array.cpp`  001  
+   - add: `test-cpp17.cpp`         001  
+   - add: `test-cpp14.cpp`         001  
 4. upd: `test/sources`  
-   - upd: `test.ver`              (009) PRE  
-5. upd: `project.root`            (011) PRE  
+   - upd: `test.ver`               009  
+5. upd: `project.root`             011  
 
 [#11-tst-msvc2017]: tasks/2025-11-16-0010-tst-msvc2017.md
 <div/>

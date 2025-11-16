@@ -1,6 +1,6 @@
 
 // --- Kartonagnick/compile                                   [test-develop.hpp]
-// [2025-11-16][19:00:00] 009 Kartonagnick PRE
+// [2025-11-16][19:00:00] 009 Kartonagnick    
 // [2025-11-15][19:00:00] 008 Kartonagnick
 // [2025-11-14][19:00:00] 007 Kartonagnick
 // [2025-11-13][19:00:00] 006 Kartonagnick
