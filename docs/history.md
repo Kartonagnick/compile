@@ -50,7 +50,7 @@
 
 --------------------------------------------------------------------------------
 
-[![P]][H] **v0.1.2 (tst)**
+[![S]][H] **v0.1.2 (tst)**
 --------------------------------------------------------------------------------
 [![V]][VE012] [![2025-11-17 19:00]][VE012]  
 
@@ -63,20 +63,20 @@
 | 2025-11-17 | 11:00 | [#12-tst-extens] | BEGIN  |  
 
 1. upd: `docs`  
-   - upd: `logo.png`                  (012) PRE  
-   - upd: `changelog.md`              (012) PRE  
-   - upd: `history.md`                (012) PRE  
-   - upd: `chrono.md`                 (012) PRE  
-   - upd: `docs.md`                   (012) PRE  
+   - upd: `logo.png`                   012  
+   - upd: `changelog.md`               012  
+   - upd: `history.md`                 012  
+   - upd: `chrono.md`                  012  
+   - upd: `docs.md`                    012  
 2. upd: `test/include`  
-   - upd: `test-stable.hpp`           (010) PRE  
-   - upd: `test-develop.hpp`          (010) PRE  
+   - upd: `test-stable.hpp`            010  
+   - upd: `test-develop.hpp`           010  
 3. add: `test/sources/support/extension`  
-   - add: `test-thread_local_ext.cpp` (001) PRE  
-   - add: `test-array_zero_size.cpp`  (001) PRE  
+   - add: `test-thread_local_ext.cpp`  001  
+   - add: `test-array_zero_size.cpp`   001  
 4. upd: `test/sources`  
-   - upd: `test.ver`                  (010) PRE  
-5. upd: `project.root`                (012) PRE  
+   - upd: `test.ver`                   010  
+5. upd: `project.root`                 012  
 
 [#12-tst-extens]: tasks/2025-11-17-0011-tst-extens.md
 <div/>
