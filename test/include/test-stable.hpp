@@ -1,6 +1,7 @@
-
+                            
 // --- Kartonagnick/compile                                    [test-stable.hpp]
-// [2025-11-16][19:00:00] 009 Kartonagnick    
+// [2025-11-17][19:00:00] 010 Kartonagnick PRE
+// [2025-11-16][19:00:00] 009 Kartonagnick
 // [2025-11-15][19:00:00] 008 Kartonagnick
 // [2025-11-14][19:00:00] 007 Kartonagnick
 // [2025-11-13][19:00:00] 006 Kartonagnick
@@ -14,7 +15,7 @@
 
 #pragma once
 #ifndef dTEST_STABLE_USED_ 
-#define dTEST_STABLE_USED_ 9
+#define dTEST_STABLE_USED_ 10
 
 //=============================================================|||===||=========
 //=== modern/classic/origin ===================================|||===||=========
